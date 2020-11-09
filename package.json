@@ -1,0 +1,19 @@
+{
+  "name": "generator-node-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "author": "风之之",
+  "github": "https://github.com/fongzhizhi",
+  "license": "ISC",
+  "main": "index.js",
+  "files": [
+    "app",
+    "router"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
